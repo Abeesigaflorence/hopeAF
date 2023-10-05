@@ -1,0 +1,27 @@
+.container {
+    width: 100%;
+    padding: 15px;
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+  }
+  
+  .col {
+    flex: 1 0 0%;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  
+  .bg-primary {
+    background-color: #fd950d !important;
+  }
+  
+  .bg-secondary {
+    background-color: #0ce74e !important;
+  }
